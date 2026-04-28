@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://techseclab.com/sitemap.xml

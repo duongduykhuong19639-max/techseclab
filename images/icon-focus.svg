@@ -1,0 +1,5 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Focus icon">
+  <circle cx="32" cy="32" r="26" fill="#E9F5FF" stroke="#0A84FF" stroke-width="2"/>
+  <circle cx="32" cy="32" r="8" fill="#0A84FF"/>
+  <path d="M32 10v8M32 46v8M10 32h8M46 32h8" stroke="#0A84FF" stroke-width="2" stroke-linecap="round"/>
+</svg>

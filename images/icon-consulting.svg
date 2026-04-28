@@ -1,0 +1,5 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Consulting icon">
+  <rect x="8" y="12" width="48" height="34" rx="8" fill="#F2F8FF" stroke="#0A84FF" stroke-width="2"/>
+  <path d="M18 28h28M18 35h18" stroke="#0A84FF" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="46" cy="48" r="8" fill="#0CC6B4"/>
+</svg>
